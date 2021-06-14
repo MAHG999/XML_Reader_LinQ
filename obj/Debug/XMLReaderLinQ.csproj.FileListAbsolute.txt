@@ -1,0 +1,7 @@
+C:\Users\marco\source\repos\XMLReaderLinQ\obj\Debug\XMLReaderLinQ.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\XMLReaderLinQ\obj\Debug\XMLReaderLinQ.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\XMLReaderLinQ\bin\Debug\XMLReaderLinQ.exe.config
+C:\Users\marco\source\repos\XMLReaderLinQ\bin\Debug\XMLReaderLinQ.exe
+C:\Users\marco\source\repos\XMLReaderLinQ\bin\Debug\XMLReaderLinQ.pdb
+C:\Users\marco\source\repos\XMLReaderLinQ\obj\Debug\XMLReaderLinQ.exe
+C:\Users\marco\source\repos\XMLReaderLinQ\obj\Debug\XMLReaderLinQ.pdb
